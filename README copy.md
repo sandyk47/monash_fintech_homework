@@ -1,3 +1,0 @@
-# monash_fintech_homework
-
-asdlkjhsdfkjbhsadfihkjbdsfkj
