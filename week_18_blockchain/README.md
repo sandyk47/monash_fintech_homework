@@ -149,17 +149,17 @@ If you've followed all the steps, your notes should look something like this:
 ```
 Account 1
 Public Key: 0xf89395cec3658a12ced147f689c372245abd7006
-Password: xxxxxxxxxxxx
 Private Key: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Password: xxxxxxxxxxxx
 ```
 
 <br>
 
 ```
 Account 2
-Password: xxxxxxxxxxxx
 Public Key: 0x239b3bfc5fc006ae9886fa3f935g05c01eb7a7bb
 Private Key: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Password: xxxxxxxxxxxx
 ```
 
 <br>
@@ -245,8 +245,8 @@ Exit the `puppeth` interface by hitting `ctrl + c`. Now, create data directories
 Now type the following commands into the command line to **build** a couple of blockchain nodes.
 
 ```
-./geth account new --datadir node1`
-./geth account new --datadir node2`
+./geth account new --datadir node1
+./geth account new --datadir node2
 ```
 
 You'll need to input a password for each, remember to note these down.
